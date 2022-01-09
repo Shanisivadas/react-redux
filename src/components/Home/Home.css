@@ -1,0 +1,15 @@
+.bI {
+  background: url("https://images.pexels.com/photos/796602/pexels-photo-796602.jpeg?cs=srgb&dl=pexels-ylanite-koppens-796602.jpg&fm=jpg center no-repeat fixed");
+  background-size: cover;
+  height: 100vh;
+}
+.wrappper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 40px;
+  color: white;
+  height: 100vh;
+}
